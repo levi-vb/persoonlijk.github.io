@@ -81,6 +81,9 @@ button:hover{
     color: lightblue;
     font-size: 15px;
 }
+#lijst{
+    list-style: none;
+}
 footer{
     background-color: blue;
     color: lightblue;
