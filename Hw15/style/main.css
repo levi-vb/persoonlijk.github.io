@@ -1,0 +1,96 @@
+html{
+    background-color: bisque;
+    font-family: verdana;
+}
+
+header{
+    background-color: blue;
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+}
+
+a{
+    background-color: lightblue;
+    height: 100px;
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: lightblue;
+    background-color: blue;
+    font-size: 25px;
+    text-decoration: none;
+}
+h1{
+    color: lightblue;
+}
+body{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#inleiding{
+    background-color: lightblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#inleiding p{
+    color: blue ;
+}
+#avatar{
+    background-color: lightblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+#tabel{
+    background-color: lightblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    color: blue;
+}
+input[type="text"], input[type="email"], textarea, button{
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25px;
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 4px; box-shadow: inset 2px 2px 5px lightblue;
+}
+#formulier{
+    background-color: lightblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+button:hover{
+    background-color: blue;
+    color: lightblue;
+    font-size: 15px;
+}
+#lijst{
+    list-style: none;
+}
+footer{
+    background-color: blue;
+    color: lightblue;
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+}
+footer li{
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+}
